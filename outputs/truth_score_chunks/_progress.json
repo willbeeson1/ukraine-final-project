@@ -1,0 +1,11 @@
+{
+  "batches": [
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/truth_score_chunks/batch_001.json"
+  ],
+  "launched": {
+    "batch_001.json": "msgbatch_01Rnco9ADuQtDAKFqaCVb8Hz"
+  },
+  "done": {
+    "batch_001.json": "msgbatch_01Rnco9ADuQtDAKFqaCVb8Hz"
+  }
+}

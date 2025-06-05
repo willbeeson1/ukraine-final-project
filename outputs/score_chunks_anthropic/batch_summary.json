@@ -1,0 +1,67 @@
+[
+  {
+    "batch_name": "batch_001.json",
+    "batch_id": "msgbatch_01EVu4qkmJ7ZFJEAUoTgUWZM",
+    "status": "ended",
+    "total": 10000,
+    "succeeded": 10000,
+    "errored": 0,
+    "processing": 0,
+    "canceled": 0,
+    "expired": 0,
+    "created_at": "2025-06-02 00:25:30.477698+00:00",
+    "expires_at": "2025-06-03 00:25:30.477698+00:00"
+  },
+  {
+    "batch_name": "batch_002.json",
+    "batch_id": "msgbatch_01QySvLZ9wRbjLLTYys5yksS",
+    "status": "ended",
+    "total": 10000,
+    "succeeded": 10000,
+    "errored": 0,
+    "processing": 0,
+    "canceled": 0,
+    "expired": 0,
+    "created_at": "2025-06-02 00:28:31.521915+00:00",
+    "expires_at": "2025-06-03 00:28:31.521915+00:00"
+  },
+  {
+    "batch_name": "batch_003.json",
+    "batch_id": "msgbatch_01J8xoZnvgD1QDcpzsTiwMqc",
+    "status": "ended",
+    "total": 10000,
+    "succeeded": 10000,
+    "errored": 0,
+    "processing": 0,
+    "canceled": 0,
+    "expired": 0,
+    "created_at": "2025-06-02 08:42:06.341874+00:00",
+    "expires_at": "2025-06-03 08:42:06.341874+00:00"
+  },
+  {
+    "batch_name": "batch_004.json",
+    "batch_id": "msgbatch_01Nh3po9hQv2ujxrcr9JLrQQ",
+    "status": "ended",
+    "total": 10000,
+    "succeeded": 10000,
+    "errored": 0,
+    "processing": 0,
+    "canceled": 0,
+    "expired": 0,
+    "created_at": "2025-06-02 08:43:53.483331+00:00",
+    "expires_at": "2025-06-03 08:43:53.483331+00:00"
+  },
+  {
+    "batch_name": "batch_005.json",
+    "batch_id": "msgbatch_01VxLNaVqHuZKA84hs7hLmeF",
+    "status": "ended",
+    "total": 1947,
+    "succeeded": 1947,
+    "errored": 0,
+    "processing": 0,
+    "canceled": 0,
+    "expired": 0,
+    "created_at": "2025-06-02 08:45:51.612016+00:00",
+    "expires_at": "2025-06-03 08:45:51.612016+00:00"
+  }
+]

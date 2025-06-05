@@ -1,0 +1,173 @@
+VALIDATION BATCH 1
+================================================================================
+
+POST #1
+Category: haiku_high_others_low
+Text: Yesterday, China issued Retaliatory Tariffs of 34%, on top of their already record setting Tariffs, Non-Monetary Tariffs, Illegal Subsidization of companies, and massive long term Currency Manipulation, despite my warning that any country that Retaliates against the U.S. by issuing additional Tariffs, above and beyond their already existing long term Tariff abuse of our Nation, will be immediately met with new and substantially higher Tariffs, over and above those initially set. Therefore, if Ch...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #2
+Category: haiku_high_others_low
+Text: I just spoke with President Claudia Sheinbaum of Mexico. It was a very friendly conversation wherein she agreed to immediately supply 10,000 Mexican Soldiers on the Border separating Mexico and the United States. These soldiers will be specifically designated to stop the flow of fentanyl, and illegal migrants into our Country. We further agreed to immediately pause the anticipated tariffs for a one month period during which we will have negotiations headed by Secretary of State Marco Rubio, Secr...
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #3
+Category: haiku_high_others_low
+Text: As everyone is aware, thousands of people are pouring through Mexico and Canada, bringing Crime and Drugs at levels never seen before. Right now a Caravan coming from Mexico, composed of thousands of people, seems to be unstoppable in its quest to come through our currently Open Border. On January 20th, as one of my many first Executive Orders, I will sign all necessary documents to charge Mexico and Canada a 25% Tariff on ALL products coming into the United States, and its ridiculous Open Borde...
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #4
+Category: haiku_high_others_low
+Text: Mimi Ramirez-Rodriguez was kidnapped and murdered by an illegal alien—leaving behind a 9 year-old girl. I met her grieving mom Carmen tonight in Georgia. With your vote Tuesday, we will end Kamala’s invasion and we will not allow illegals to spill one more drop of American blood.
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #5
+Category: haiku_high_others_low
+Text: Senator Ted Cruz: I've met with @PeteHegseth twice... If you look at his background, he's a decorated combat veteran. He has spent virtually his entire adult life as a campion and advocate for the military, for veterans. And I think he has a very clear-eyed focus on moving the Department of Defense back to its core mission of supporting the warfighter.
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #6
+Category: haiku_high_others_low
+Text: Senator Rick Scott: "I just had a great meeting with @PeteHegseth, the next Secretary of Defense. I'll tell you why I support him: I admire people who are willing to put on the uniform and lead troops into battle... When he goes in the Department of Defense, he will walk in with the mentality that he's going to take care of our warfighters."
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #7
+Category: haiku_high_others_low
+Text: PRESIDENT TRUMP: "On Day One of my new administration, the INVASION of savage criminals ENDS, and on that same day, the largest deportation in our history begins."
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #8
+Category: haiku_high_others_low
+Text: WE WILL SEAL THE BORDER, END THE INVASION, AND CARRY OUT THE LARGEST DEPORTATION OPERATION IN AMERICAN HISTORY!
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #9
+Category: haiku_high_others_low
+Text: President Trump on funding deportations: I'll take it out of our defense budget because this is an INVASION!
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #10
+Category: haiku_high_others_low
+Text: MARIA: Do you think there are after-effects [of the assassination attempt?]@RonnyJacksonTX: I don't think so - he's a unique individual. I have never ever been prouder of my president than we he stood up with blood all over his face and raised his fist in defiance. That was his warrior spirit from deep down inside. He's a warrior. He will not be deterred.
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 0.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+

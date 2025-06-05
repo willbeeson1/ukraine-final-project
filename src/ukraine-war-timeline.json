@@ -1,0 +1,29 @@
+{"date":"2022-02-24","event":"Russia launches full-scale invasion of Ukraine","notes":"'Special military operation' declared; attacks on multiple fronts","label":"Invasion","major":true}
+{"date":"2022-02-28","event":"Battle for Kyiv; first peace talks in Belarus","notes":"Russian convoy stalled; Ukrainian resistance stronger than expected","label":"Kyiv Battle","major":true}
+{"date":"2022-03-16","event":"600 killed in Mariupol theater airstrike","notes":"Civilians sheltering in marked building; siege continues","label":"Mariupol","major":true}
+{"date":"2022-04-02","event":"Ukrainian forces retake Kyiv region; Bucha massacre discovered","notes":"Russian withdrawal reveals civilian atrocities","label":"Bucha","major":true}
+{"date":"2022-05-20","event":"Mariupol falls; Azovstal defenders surrender","notes":"End of 3-month siege; symbolic Ukrainian resistance","label":"Mariupol Falls","major":true}
+{"date":"2022-06-30","event":"Russia captures Severodonetsk and Lysychansk","notes":"Luhansk region largely under Russian control","label":"Luhansk","major":false}
+{"date":"2022-09-11","event":"Ukrainian counteroffensive liberates Kharkiv region","notes":"Rapid advance retakes 6,000 sq km in days","label":"Kharkiv Liberation","major":true}
+{"date":"2022-11-11","event":"Ukraine liberates Kherson city","notes":"Russian withdrawal across Dnipro; major Ukrainian victory","label":"Kherson Free","major":true}
+{"date":"2023-02-01","event":"Battle of Vuhledar; massive Russian losses","notes":"'Largest tank battle' of war; 155th Brigade destroyed","label":"Vuhledar","major":false}
+{"date":"2023-05-20","event":"Bakhmut falls to Wagner/Russian forces","notes":"Longest battle of war; city destroyed","label":"Bakhmut Falls","major":true}
+{"date":"2023-06-04","event":"Ukrainian counteroffensive begins","notes":"Attempts to breach Russian lines; ultimately unsuccessful","label":"Counteroffensive","major":true}
+{"date":"2023-06-06","event":"Kakhovka Dam destroyed","notes":"Massive flooding; ecological disaster","label":"Dam Destroyed","major":true}
+{"date":"2024-02-17","event":"Russia captures Avdiivka","notes":"Major fortress falls; 16,000 Russian KIA","label":"Avdiivka Falls","major":true}
+{"date":"2024-05-10","event":"Russia opens new Kharkiv offensive","notes":"Captures villages; creates buffer zone","label":"Kharkiv 2024","major":false}
+{"date":"2024-08-06","event":"Ukraine launches Kursk incursion","notes":"Surprise attack into Russia; holds territory","label":"Kursk","major":true}
+{"date":"2024-10-02","event":"Russia captures Vuhledar","notes":"Strategic heights taken after 2-year siege","label":"Vuhledar Falls","major":true}
+{"date":"2024-11-05","event":"Trump wins US election","notes":"Promises to end war quickly; policy shift expected","label":"Trump Elected","major":true}
+{"date":"2024-12-28","event":"Russia captures Kurakhove","notes":"Key logistics hub and power station taken","label":"Kurakhove","major":false}
+{"date":"2025-01-20","event":"Trump inaugurated; shifts Ukraine policy","notes":"Immediate change in US approach to conflict","label":"Trump Policy","major":true}
+{"date":"2025-01-26","event":"Russia captures Velyka Novosilka","notes":"Western Donetsk stronghold falls","label":"V. Novosilka","major":false}
+{"date":"2025-01-31","event":"Russian forces control 90% of Toretsk","notes":"Urban warfare continues in city","label":"Toretsk","major":false}
+{"date":"2025-02-12","event":"First Trump-Putin call","notes":"Discussion on ceasefire; no concrete results","label":"Trump-Putin","major":true}
+{"date":"2025-02-28","event":"Trump-Zelensky Oval Office confrontation","notes":"Meeting ends early; aid suspended","label":"US-Ukraine Rift","major":true}
+{"date":"2025-03-13","event":"Putin rejects 30-day ceasefire plan","notes":"Sets preconditions; US envoy visits Moscow","label":"Ceasefire Rejected","major":false}
+{"date":"2025-03-18","event":"Trump-Putin call fails to secure ceasefire","notes":"Two-hour call; no breakthrough","label":"Talks Fail","major":false}
+{"date":"2025-05-11","event":"European leaders demand ceasefire; Trump wavers","notes":"US backs then reverses support for EU position","label":"EU Push","major":false}
+{"date":"2025-05-17","event":"Istanbul talks; first direct contact since 2022","notes":"Prisoner exchange agreed; no ceasefire","label":"Istanbul","major":true}
+{"date":"2025-05-19","event":"Trump announces 'immediate' ceasefire talks","notes":"Putin noncommittal; no concrete timeline","label":"Peace Claims","major":true}
+{"date":"2025-05-26","event":"Russia launches largest drone attack","notes":"Escalation continues despite talks","label":"Drone War","major":false}

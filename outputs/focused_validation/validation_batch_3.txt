@@ -1,0 +1,173 @@
+VALIDATION BATCH 3
+================================================================================
+
+POST #22
+Category: haiku_outlier_sonnet_opus_agree
+Text: This is the worst statement that could have been made by Zelenskyy, and America will not put up with it for much longer! It is what I was saying, this guy doesn’t want there to be Peace as long as he has America’s backing and, Europe, in the meeting they had with Zelenskyy, stated flatly that they cannot do the job without the U.S. – Probably not a great statement to have been made in terms of a show of strength against Russia. What are they thinking? https://apnews.com/article/russia-ukraine-wa...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 3.0
+  Opus:   2.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #24
+Category: haiku_outlier_sonnet_opus_agree
+Text: Opposition fighters in Syria, in an unprecedented move, have totally taken over numerous cities, in a highly coordinated offensive, and are now on the outskirts of Damascus, obviously preparing to make a very big move toward taking out Assad. Russia, because they are so tied up in Ukraine, and with the loss there of over 600,000 soldiers, seems incapable of stopping this literal march through Syria, a country they have protected for years. This is where former President Obama refused to honor hi...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 2.0
+  Opus:   3.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #26
+Category: haiku_outlier_sonnet_opus_agree
+Text: We are building the biggest and broadest coalition in American Political History. This includes record-breaking numbers of Arab and Muslim Voters in Michigan who want PEACE. They know Kamala and her warmonger Cabinet will invade the Middle East, get millions of Muslims killed, and start World War III. VOTE TRUMP, AND BRING BACK PEACE! https://swampthevoteusa.com/
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 8.0
+  Opus:   8.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #28
+Category: haiku_outlier_sonnet_opus_agree
+Text: RT @TeamTrumpPRESIDENT TRUMP: "We are running against the most radical, most incompetent, most unfit Vice President in history. No one respects her. No one trusts her. No one takes her seriously. Something is clearly wrong with her. She can’t put two sentences together. She is an international joke and is going to end up getting us into a Third World War."
+
+Model Scores:
+  Haiku:  3.0
+  Sonnet: 8.0
+  Opus:   9.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #29
+Category: haiku_outlier_sonnet_opus_agree
+Text: Things on the campaign against the Communist Left are going very well, but the World is now a very dangerous place. Kamala (and Joe!) is unable to answer even the simplest of questions. It’s CRAZY! If she can’t do that, how can she represent us on stopping World War lll? The answer is simple, she can’t! MAGA2024
+
+Model Scores:
+  Haiku:  3.0
+  Sonnet: 7.0
+  Opus:   8.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #30
+Category: haiku_outlier_sonnet_opus_agree
+Text: Today’s Attack on Israel cannot be forgotten. It will go down as another moment in History created by a weak and ineffective United States President and Vice President. With time, this situation will only get worse for our Country. It must galvanize the Republican Party, Democrats, Independents, Conservatives, Progressives, Libertarians, and everybody else to put STRENGTH, RESPECT, AND POWER back into the U.S.A. This Attack, just like the Attack of October 7th, or the Ukraine/Russia War, would h...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 2.0
+  Opus:   3.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #36
+Category: political_content
+Text: RT @TrumpLadyTNThey best heed the warning...
+
+Model Scores:
+  Haiku:  2.0
+  Sonnet: 6.0
+  Opus:   nan
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #38
+Category: political_content
+Text: The Hostage Crisis in Israel is only taking place because Comrade Kamala Harris is weak and ineffective, and has no idea what she’s doing. I look forward to seeing her at the Debate! Biden failed, and now he spends his day on the beach, plotting and scheming how to take out his once Political Opponent, ME, who took him out both at the Debate, and otherwise. THE OCTOBER 7th ISRAELI CRISIS WOULD NEVER HAVE HAPPENED IF I WERE PRESIDENT!
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 2.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #39
+Category: political_content
+Text: RT @realDonaldTrumpIn an effort to resurrect a “dead” Witch Hunt in Washington, D.C., in an act of desperation, and in order to save face, the illegally appointed “Special Counsel” Deranged Jack Smith, has brought a ridiculous new Indictment against me, which has all the problems of the old Indictment, and should be dismissed IMMEDIATELY. His Florida Document Hoax Case has been completely dismissed. This is merely an attempt to INTERFERE WITH THE ELECTION, and distract the American People from t...
+
+Model Scores:
+  Haiku:  nan
+  Sonnet: 3.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #44
+Category: military_content
+Text: “In a stark warning, the U.S. Customs and Border Protection agency is altering all field offices that Iran or its proxies may try to transport “operatives, money or materials” across the southern or northern U.S. borders to conduct a terrorism attack against Americans, according to an agency memo…” https://justthenews.com/government/security/key-homeland-agency-warns-agents-iran-proxies-may-try-cross-border-attack
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 4.0
+  Opus:   8.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+

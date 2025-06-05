@@ -1,0 +1,23 @@
+{
+  "batches": [
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/score_chunks_anthropic/batch_001.json",
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/score_chunks_anthropic/batch_002.json",
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/score_chunks_anthropic/batch_003.json",
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/score_chunks_anthropic/batch_004.json",
+    "/Users/willbeeson/Projects/Courses/GOV20/ukraine-final-project/outputs/score_chunks_anthropic/batch_005.json"
+  ],
+  "launched": {
+    "batch_001.json": "msgbatch_01EVu4qkmJ7ZFJEAUoTgUWZM",
+    "batch_002.json": "msgbatch_01QySvLZ9wRbjLLTYys5yksS",
+    "batch_003.json": "msgbatch_01J8xoZnvgD1QDcpzsTiwMqc",
+    "batch_004.json": "msgbatch_01Nh3po9hQv2ujxrcr9JLrQQ",
+    "batch_005.json": "msgbatch_01VxLNaVqHuZKA84hs7hLmeF"
+  },
+  "done": {
+    "batch_001.json": "msgbatch_01EVu4qkmJ7ZFJEAUoTgUWZM",
+    "batch_002.json": "msgbatch_01QySvLZ9wRbjLLTYys5yksS",
+    "batch_003.json": "msgbatch_01J8xoZnvgD1QDcpzsTiwMqc",
+    "batch_004.json": "msgbatch_01Nh3po9hQv2ujxrcr9JLrQQ",
+    "batch_005.json": "msgbatch_01VxLNaVqHuZKA84hs7hLmeF"
+  }
+}

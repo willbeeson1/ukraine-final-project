@@ -1,0 +1,173 @@
+VALIDATION BATCH 2
+================================================================================
+
+POST #11
+Category: all_disagree
+Text: I’ve always had a very good relationship with Vladimir Putin of Russia, but something has happened to him. He has gone absolutely CRAZY! He is needlessly killing a lot of people, and I’m not just talking about soldiers. Missiles and drones are being shot into Cities in Ukraine, for no reason whatsoever. I’ve always said that he wants ALL of Ukraine, not just a piece of it, and maybe that’s proving to be right, but if he does, it will lead to the downfall of Russia! Likewise, President Zelenskyy ...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 3.0
+  Opus:   7.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #12
+Category: all_disagree
+Text: President Putin of Russia doesn’t want to have a Cease Fire Agreement with Ukraine, but rather wants to meet on Thursday, in Turkey, to negotiate a possible end to the BLOODBATH. Ukraine should agree to this, IMMEDIATELY. At least they will be able to determine whether or not a deal is possible, and if it is not, European leaders, and the U.S., will know where everything stands, and can proceed accordingly! I’m starting to doubt that Ukraine will make a deal with Putin, who’s too busy celebratin...
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 4.0
+  Opus:   1.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #13
+Category: all_disagree
+Text: I am not happy with the Russian strikes on KYIV. Not necessary, and very bad timing. Vladimir, STOP! 5000 soldiers a week are dying. Lets get the Peace Deal DONE!
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 2.0
+  Opus:   7.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #14
+Category: all_disagree
+Text: YOU HAVE A SITUATION (RUSSIA-UKRAINE) WHERE YOU HAVE A LOT OF GUNS POINTING AT EACH OTHER, FOOLISHLY—BECAUSE IT WOULD HAVE NEVER HAPPENED IF I WAS PRESIDENT…
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 3.0
+  Opus:   1.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #15
+Category: all_disagree
+Text: We had very good and productive discussions with President Vladimir Putin of Russia yesterday, and there is a very good chance that this horrible, bloody war can finally come to an end — BUT, AT THIS VERY MOMENT, THOUSANDS OF UKRAINIAN TROOPS ARE COMPLETELY SURROUNDED BY THE RUSSIAN MILITARY, AND IN A VERY BAD AND VULNERABLE POSITION. I have strongly requested to President Putin that their lives be spared. This would be a horrible massacre, one not seen since World War II. God bless them all!!!
+
+Model Scores:
+  Haiku:  6.0
+  Sonnet: 3.0
+  Opus:   8.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #16
+Category: all_disagree
+Text: Biden gave Liz Cheney a Medal yesterday, even though she has proven to be totally corrupt. She, “Bennie” Thompson, and the rest of the Unselect Committee, destroyed and deleted all evidence from their crooked investigation of January 6th. Cheney has the distinction of losing her Congressional seat by the largest margin in History! The people of Wyoming understood how bad for our Country she was, but Biden rewarded her only because she hated “TRUMP.” She’s a Warmonger of low intelligence. All she...
+
+Model Scores:
+  Haiku:  2.0
+  Sonnet: 4.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #17
+Category: all_disagree
+Text: …Michael Duffey will serve as the next Under Secretary of Defense for Acquisition &amp; Sustainment. Mike has been a strong advocate for our Warfighters and the American Taxpayer throughout his many years of public service, including in the Department of Defense, and the Office of Management and Budget of my First Administration. Mike will drive change at the Pentagon and, as a staunch proponent of an America First approach to our National Defense, will work to revitalize our Defense Industrial ...
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 2.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #18
+Category: all_disagree
+Text: I am honored to announce that I have nominated Pete Hegseth to serve in my Cabinet as The Secretary of Defense. Pete has spent his entire life as a Warrior for the Troops, and for the Country. Pete is tough, smart and a true believer in America First. With Pete at the helm, America's enemies are on notice - Our Military will be Great Again, and America will Never Back Down…
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 3.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #19
+Category: all_disagree
+Text: “WARS ARE RAGING—THE WORLD IS SPINNING OUT OF CONTROL WITH KAMALA IN CHARGE…”
+
+Model Scores:
+  Haiku:  2.0
+  Sonnet: 3.0
+  Opus:   7.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+
+POST #20
+Category: all_disagree
+Text: U.S. leaked highly confidential Documents from Israel. May have come from Defense Department. Israel has been seriously damaged and compromised by this. Wartime strategy and data. Probably came from Defense Department. MUST FIND THE LEAKER! Israel no longer wants to share documents with U.S., and who can blame them!
+
+Model Scores:
+  Haiku:  4.0
+  Sonnet: 4.0
+  Opus:   0.0
+
+Your Scores:
+  Escalation (0-10): _____
+  Blame (-1/0/1): _____
+  CTA (0/1): _____
+  Notes: _______________________________________________
+
+--------------------------------------------------------------------------------
+

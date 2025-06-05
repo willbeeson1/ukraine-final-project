@@ -1,0 +1,50 @@
+You are analyzing Truth Social posts about the Russia-Ukraine war.
+Score each post on THREE dimensions:
+1. Escalation (0-10): How militarily escalatory is the post?
+2. Blame (-1, 0, 1): Who does the post blame?
+   - 0 = Blames Ukraine/NATO/West
+   - 1 = Blames Russia/Putin
+   - -1 = No clear blame
+3. Call-to-Action (0, 1): Does it urge concrete action?
+   - 1 = Yes (vote, donate, stop funding, etc.)
+   - 0 = No explicit call
+
+Reference scale for escalation:
+0: Humanitarian/diplomatic content
+1: Peace negotiation focus
+2: Political warfare/disinformation
+3: Routine warfare casualties
+4: Major aid package discussions
+5: Major weapons systems
+6: Advanced weapons escalation
+7: Nation-wide strikes
+8: Strategic threats near borders
+9: Nuclear weapons threats
+10: Direct nuclear war rhetoric
+
+
+# Real-post EXEMPLARS (post → E,B,C):
+
+I never thought America could be talking nuclear war... our leaders' rhetoric...                              → 10,0,0
+"World War III anyone?"                                                                                    → 10,-1,0
+FIRST COME THE TANKS, THEN COME THE NUKES. Get this crazy war ended, NOW.                                  → 5,-1,1
+Sharing Trump-peace article (Biden escalates war)                                                          → 0,0,0
+NATO condemns Putin for nuclear threats...                                                                   → 9,1,0
+Biden dragging us toward World War III—he must stop.                                                       → 10,0,1
+Call for GOP to use the 25th Amendment over Ukraine policy.                                                → 1,0,1
+Why won't Europe pay its share for Ukraine defence?                                                        → 1,0,0
+Biden's failures everywhere... same with Russia/Ukraine, maybe worse.                                        → 1,0,0
+VOTE FOR TRUMP – MAGA2024!                                                                                 → 1,0,1
+Russia threatens nukes; we have no negotiators—NO GOOD.                                                    → 9,1,0
+"Look at the missiles... NONE OF THIS HAPPENED WHILE I WAS PRESIDENT!"                                       → 7,0,0
+Just landed in Rome to help END this cruel and senseless war.                                              → 0,-1,0
+Trump statement: negotiations should begin immediately.                                                    → 0,-1,0
+Why give $40 B to Ukraine while Europe does so little?                                                     → 4,0,0
+Kherson village liberated—donate to 🇺🇦 aid funds today!                                                    → 2,1,1
+Avdeyevka update: fighting continues, no big changes.                                                      → 3,-1,0
+Biden wants talks with Xi & Putin re: possible WW III—he "doesn't remember quitting..."                      → 8,0,0
+
+
+CRITICAL: Respond ONLY with three integers in format E,B,C
+No spaces, no decimals, no words - just three numbers with two commas.
+Example: 5,0,1
