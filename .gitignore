@@ -5,3 +5,7 @@
 .env
 
 outputs/*.npy
+
+# large raw dumps
+outputs/*telegram_full*
+outputs/*.db
