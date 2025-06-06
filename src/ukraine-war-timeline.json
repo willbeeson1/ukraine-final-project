@@ -21,9 +21,8 @@
 {"date":"2025-01-31","event":"Russian forces control 90% of Toretsk","notes":"Urban warfare continues in city","label":"Toretsk","major":false}
 {"date":"2025-02-12","event":"First Trump-Putin call","notes":"Discussion on ceasefire; no concrete results","label":"Trump-Putin","major":true}
 {"date":"2025-02-28","event":"Trump-Zelensky Oval Office confrontation","notes":"Meeting ends early; aid suspended","label":"US-Ukraine Rift","major":true}
-{"date":"2025-03-13","event":"Putin rejects 30-day ceasefire plan","notes":"Sets preconditions; US envoy visits Moscow","label":"Ceasefire Rejected","major":false}
-{"date":"2025-03-18","event":"Trump-Putin call fails to secure ceasefire","notes":"Two-hour call; no breakthrough","label":"Talks Fail","major":false}
-{"date":"2025-05-11","event":"European leaders demand ceasefire; Trump wavers","notes":"US backs then reverses support for EU position","label":"EU Push","major":false}
 {"date":"2025-05-17","event":"Istanbul talks; first direct contact since 2022","notes":"Prisoner exchange agreed; no ceasefire","label":"Istanbul","major":true}
-{"date":"2025-05-19","event":"Trump announces 'immediate' ceasefire talks","notes":"Putin noncommittal; no concrete timeline","label":"Peace Claims","major":true}
-{"date":"2025-05-26","event":"Russia launches largest drone attack","notes":"Escalation continues despite talks","label":"Drone War","major":false}
+{"date":"2025-05-26","event":"Russia launches largest drone attack","notes":"Escalation continues despite talks","label":"Russian Drones","major":false}
+{"date":"2025-05-29","event":"Ukrainian drone 'Trojan Horse' infiltrates Russian base","notes":"Disguised as Russian drone; destroys 8 helicopters at Belgorod airfield","label":"Drone Trojan Horse","major":true}
+{"date":"2025-06-02","event":"Russia intensifies Chasiv Yar assault; Ukraine holds center","notes":"Glide bomb attacks increase; canal line defense holds","label":"Chasiv Yar","major":true}
+{"date":"2025-06-04","event":"NATO announces expanded weapons package","notes":"F-16 training accelerated; long-range missiles approved","label":"NATO Aid","major":true}

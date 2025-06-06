@@ -1,0 +1,9 @@
+metric,value
+mean_corr_tg_hl,0.2499613562680274
+mean_corr_tg_ts,0.005108606330300875
+mean_corr_hl_ts,-0.005863428237435459
+volatility_telegram,0.3635464487102524
+volatility_headlines,0.9080715311476167
+volatility_truth,2.020407828054445
+synchronized_spikes_all,0.0
+synchronized_spikes_any_two,11.0
